@@ -1,0 +1,10 @@
+{
+  "name": "my-runhq-project",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "runhq serve",
+    "review": "runhq run code-reviewer reviewer \"Review the code in src/ and list issues.\""
+  },
+  "dependencies": { "runhq": "^0.1.0" }
+}

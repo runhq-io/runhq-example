@@ -1,0 +1,2 @@
+{ "schemaVersion": 1, "name": "Code Reviewer",
+  "tabs": ["jobs", "files", "agents", "settings"], "settings": {} }
