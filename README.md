@@ -52,4 +52,4 @@ and the agent works inside the project folder. Only run agents and tasks you tru
 
 ---
 
-MIT. Built on [runhq-lite](https://github.com/runhq-io/runhq) · [runhq-core](https://github.com/runhq-io/runhq-core).
+MIT. Built on [runhq](https://github.com/runhq-io/runhq) · [runhq-core](https://github.com/runhq-io/runhq-core).
