@@ -1,6 +1,6 @@
 # runhq-example
 
-A ready-to-run example of a **[RunHQ Lite](https://github.com/runhq-io/runhq-lite)** project — clone it,
+A ready-to-run example of a **[RunHQ](https://github.com/runhq-io/runhq)** project — clone it,
 plug in your own Anthropic API key, and an AI agent carries out tasks inside the
 project, on your machine, with no cloud involved.
 
@@ -52,4 +52,4 @@ and the agent works inside the project folder. Only run agents and tasks you tru
 
 ---
 
-MIT. Built on [runhq-lite](https://github.com/runhq-io/runhq-lite) · [runhq-core](https://github.com/runhq-io/runhq-core).
+MIT. Built on [runhq-lite](https://github.com/runhq-io/runhq) · [runhq-core](https://github.com/runhq-io/runhq-core).
